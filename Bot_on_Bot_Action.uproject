@@ -14,14 +14,6 @@
 		{
 			"Name": "SkeletalMeshModelingTools",
 			"Enabled": true
-		},
-		{
-			"Name": "ChaosModularVehicle",
-			"Enabled": true
-		},
-		{
-			"Name": "ChaosVehiclesPlugin",
-			"Enabled": true
 		}
 	]
 }
